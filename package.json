@@ -1,0 +1,14 @@
+{
+  "name": "commit-motivate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm prodbuild serve start"
+  },
+  "author": "Griffin Ferguson",
+  "license": "ISC",
+  "dependencies": {
+    "prodbuild": "^1.6.6"
+  }
+}
